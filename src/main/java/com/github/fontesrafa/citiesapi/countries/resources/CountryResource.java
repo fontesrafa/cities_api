@@ -1,9 +1,9 @@
-package com.github.fontesrafa.citiesapi;
+package com.github.fontesrafa.citiesapi.countries.resources;
 
 import java.util.List;
 
-import com.github.fontesrafa.citiesapi.countries.Country;
-import com.github.fontesrafa.citiesapi.repository.CountryRepository;
+import com.github.fontesrafa.citiesapi.countries.entities.Country;
+import com.github.fontesrafa.citiesapi.countries.repositories.CountryRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

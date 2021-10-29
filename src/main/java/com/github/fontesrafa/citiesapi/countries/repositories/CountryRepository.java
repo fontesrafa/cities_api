@@ -1,6 +1,6 @@
-package com.github.fontesrafa.citiesapi.repository;
+package com.github.fontesrafa.citiesapi.countries.repositories;
 
-import com.github.fontesrafa.citiesapi.countries.Country;
+import com.github.fontesrafa.citiesapi.countries.entities.Country;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
